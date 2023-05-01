@@ -9,7 +9,7 @@ The team utilized Oracle Cloud Infrastructure (Oracle APEX) to create the databa
 ## Repository Contents
 
 In this repository, you will find an .sql file containing the code for creating the tables and populating them with entries. You will also find a .pptx file that contains a diagram of the relational database.
-Contributors
+## Contributors
 
 [Mihnea1603](https://github.com/Mihnea1603)
 
